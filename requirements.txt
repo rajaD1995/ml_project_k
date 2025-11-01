@@ -1,0 +1,8 @@
+-e .  # This will automatically trigger the setup.py
+pandas
+numpy
+scikit-learn
+flask
+seaborn
+matplotlib
+streamlit

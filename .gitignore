@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ml_pro_krish/
 
 # Spyder project settings
 .spyderproject
