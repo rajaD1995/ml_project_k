@@ -145,6 +145,11 @@ env.bak/
 venv.bak/
 ml_pro_krish/
 
+# Ignore specific Jupyter notebooks
+notebook/EDA_practice.ipynb
+notebook/model_practice.ipynb
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
